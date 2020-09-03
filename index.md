@@ -7,5 +7,5 @@ A system developer and computer science student from Norway.
 
 ## Contact
 * [filip@horvei.com](mailto:filip@horvei.com)
-* [@filiphorvei](twitter.com/filiphorvei)
-* [GitHub](github.com/filiphorvei)
+* [@filiphorvei](https://twitter.com/filiphorvei)
+* [GitHub](https://github.com/filiphorvei)
